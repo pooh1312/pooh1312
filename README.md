@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Website Designing
 - 💞️ I’m looking to collaborate on learning new technology stacks.
-- 📫 How to reach me Linekdin \href{}
+- 📫 How to reach me
 
 <!---
 pooh1312/pooh1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
