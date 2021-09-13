@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooh1312
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Website Designing
+- 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on learning new technology stacks.
 - 📫 How to reach me
 
